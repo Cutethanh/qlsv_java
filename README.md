@@ -13,6 +13,7 @@ dữ liệu nhạy cảm
 | Cách | Thao tác |
 |---|---|
 | Chạy nhanh | Nháy đúp `qlsv.jar` hoặc `java -jar qlsv.jar` |
+| Từ mã nguồn | Nháy đúp `chay.bat` (Win) hoặc `./chay.sh` |
 
 Lần chạy đầu, ứng dụng tự tạo thư mục `data/` gồm khoá bí mật `secret.key` và dữ liệu mẫu.
 
